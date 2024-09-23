@@ -18,7 +18,7 @@ you can find more about me at: https://kirbo.zip
 <samp>have a good day!<br></samp>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/returnkirbo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/bobbytxt/count.svg)
 
 <img src="https://github.com/returnkirbo/returnkirbo/blob/main/a/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
