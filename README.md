@@ -18,8 +18,6 @@ you can find more about me at: https://heybob.by
 <samp>have a good day!<br></samp>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/iamnotbobby/count.svg)
-
 <img src="https://github.com/returnkirbo/returnkirbo/blob/main/a/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
