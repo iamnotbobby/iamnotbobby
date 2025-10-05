@@ -2,10 +2,10 @@
 
 ![Visitor Count](https://github.com/returnkirbo/returnkirbo/blob/main/a/smile.gif)
 
-### hello!
+### hey!
 
 <samp>
-you might know me for what i do online: i do work related to cybersecurity
+i do work related to cybersecurity,
     <br><br>
 you can find more about me at: https://heybob.by
 </samp>
