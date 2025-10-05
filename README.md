@@ -15,7 +15,7 @@ you can find more about me at: https://heybob.by
 <!-- Footer -->
 <div align="center">
 <br>
-<samp>> 'jack of all trades, master of none' <<br></samp>
+<samp>'jack of all trades, master of none'<br></samp>
 <br>
 
 <img src="https://github.com/returnkirbo/returnkirbo/blob/main/a/notepad.gif" alt="Site created with Notepad" height="30" />
